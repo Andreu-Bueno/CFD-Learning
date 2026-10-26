@@ -14,3 +14,6 @@ wheels/
 
 # Results
 resultados/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
